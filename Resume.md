@@ -1,5 +1,5 @@
 # Joe Letizia
-** Software Engineer **
+#### Software Engineer 
 
 Find me:
 
@@ -20,7 +20,8 @@ June 2013 - Present
 
 - Worked in a small, tight knit team to develop a Rails replacement to a legacy Java + Rails hybrid system that had grown unmanageable.
 - Followed Test Driven Development best practices by creating full integration tests using Cucumber and Capybara along with class and method level unit tests using RSpec to drive out implementations.
-- Followed agile processes including daily standups, regular retrospectives, short iterations, test-driven development, and constant personal feedback in order maintain a sustainable yet fast pace of delivery.Trained by Pivotal Labs engineers in TDD, object oriented design, and agile software engineering.
+- Followed agile processes including daily standups, regular retrospectives, short iterations, test-driven development, and constant personal feedback in order maintain a sustainable yet fast pace of delivery.
+Trained by Pivotal Labs engineers in TDD, object oriented design, and agile software engineering.
 - Trained by Pivotal Labs engineers in TDD, object oriented design, and agile software engineering.
 - Created ETL process to migrate data from legacy system with an extremely loose data model to the new product’s data model. This was built entirely in ruby, distributed across many AWS instances to increase throughput and concurrency, and used a robust logging and analytics system based on MongoDB. 
 
