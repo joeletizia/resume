@@ -3,7 +3,7 @@
 
 Find me:
 
-[ Web ](http://joeletizia.com) * <joe.letizia@gmail.com> * [ Twitter ](http://twitter.com/joeletizia)
+[ Web ](http://joeletizia.com) * <joe.letizia+github@gmail.com> * [ Twitter ](http://twitter.com/joeletizia)
 
 ### Personal Statement
 I am a software engineer with 5 years of experience in several aspects of the software developement process. I am esspecially interested in created object oriented web applications. My favorite frameworks are Ruby on Rails and Sinatra. I also enjoy fiddling with Javascript to make front end experiences more fun and responsive.
