@@ -3,7 +3,7 @@
 
 Find me:
 
-[ Web ](http://joeletizia.com) * [ Email ] (mailto://joe.letizia+github@gmail.com) * [ Twitter ](http://twitter.com/joeletizia)
+[ Email ] (mailto://joe.letizia+github@gmail.com) * [ Twitter ](http://twitter.com/joeletizia)
 
 ### Personal Statement
 I am a software engineer with 5 years of experience in several aspects of the software developement process. I am esspecially interested in created object oriented web applications. My favorite frameworks are Ruby on Rails and Sinatra. I also enjoy fiddling with Javascript to make front end experiences more fun and responsive.
@@ -11,7 +11,7 @@ I am a software engineer with 5 years of experience in several aspects of the so
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-**Linux**, Mac OS, Windows| **Ruby**, SQL, C#, Javascript  | **Vim**, git, TeamCity CI, **Heroku**, AWS
+**Linux**, Mac OS | **Ruby**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
 ###### Software Engineer @ Gust.com  
