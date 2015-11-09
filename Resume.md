@@ -18,6 +18,8 @@ Platforms | Languages | Tools
 New York City, NY  
 November 2015 - Present
 
+---
+
 ###### Software Engineer @ Gust 
 New York City, NY  
 June 2013 - November 2015 
