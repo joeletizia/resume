@@ -14,9 +14,13 @@ Platforms | Languages | Tools
 **Linux**, Mac OS | **Ruby**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
-###### Software Engineer @ Gust.com  
+###### Senior Software Engineer @ Harry's Grooming
 New York City, NY  
-June 2013 - Present 
+June 2013 - November 2015 
+
+###### Software Engineer @ Gust 
+New York City, NY  
+June 2013 - November 2015 
 
 - Worked in a small, tight knit team to develop a Rails replacement to a legacy Java + Rails hybrid system.
 - Followed Test Driven Development best practices by creating full integration tests using Cucumber and Capybara along with class and method level unit tests using RSpec to drive out implementations.
