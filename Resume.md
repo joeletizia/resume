@@ -19,6 +19,7 @@ New York City, NY
 November 2015 - Present
 
 - Responsible for web application architecture.
+- Decrease test suite times by ~50% to increase engineering productivity.
 - Lead engineering hiring effors.
 - Train, encourage, and review engineering team members in TDD, BDD, and clean coding techniques (SOLID).
 - Built custom CMS solution for product team members to decrease publish team and eliminate the need for engineering intervention.
