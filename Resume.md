@@ -14,9 +14,13 @@ Platforms | Languages | Tools
 **Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
+###### Software Engineer @ Facebook
+New York City, NY  
+January 2017 - Present
+
 ###### Senior Software Engineer @ Harry's Grooming
 New York City, NY  
-November 2015 - Present
+November 2015 - December 2016
 
 - Responsible for web application architecture.
 - Lead engineering hiring effors.
