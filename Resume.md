@@ -14,9 +14,9 @@ Platforms | Languages | Tools
 **Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
-###### Software Engineer @ Bowery Farming
+###### Senior Software Engineer/Tech Lead @ VTS
 New York City, NY  
-August 2018 - Present
+November 2018 - Present
 
 ###### Software Engineer @ Facebook
 New York City, NY  
