@@ -16,12 +16,16 @@ Platforms | Languages | Tools
 New York City, NY  
 November 2018 - Present
 
+---
+
 ###### Software Engineer @ Facebook
 New York City, NY  
 January 2017 - August 2018
 
 - Engineer on People Products focusing on building tools to help managers and organization leaders gain insight on their people and help facilitate internal mobility.
 - Engineer on Recruiting Products helping to build products to help find, engage, evaluate, and hire talent across the company.
+
+---
 
 ###### Senior Software Engineer @ Harry's Grooming
 New York City, NY  
