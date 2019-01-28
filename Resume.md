@@ -1,9 +1,7 @@
 # Joe Letizia
 #### Software Engineer 
 
-Find me:
-
-[ Email ] (mailto://joe.letizia+github@gmail.com) * [ Twitter ](http://twitter.com/joeletizia) * [ Blog ](http://joeletizia.github.io)
+[ Email ](mailto://joe.letizia+github@gmail.com)
 
 ### Personal Statement
 I am a software engineer with 7 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also enjoy fiddling with Javascript to make front end experiences more enjoyable for the end user.
