@@ -16,6 +16,11 @@ Platforms | Languages | Tools
 New York City, NY  
 November 2018 - Present
 
+- Tech lead on the largest engineering team (7 engineers) in the company.
+- Responsible for core platform features and maintenance.
+- Rewrote financial calculations engine to support a better developer experience, increase maintainability, and improve performance.
+- Built features to on board client with ARR in the high 6 figures.
+
 ---
 
 ###### Software Engineer @ Facebook
