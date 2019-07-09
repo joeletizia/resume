@@ -9,7 +9,7 @@ I am a software engineer with 7 years of experience in several aspects of the so
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
+**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
 ###### Senior Software Engineer/Tech Lead @ VTS
