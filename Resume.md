@@ -1,15 +1,15 @@
 # Joe Letizia
 #### Software Engineer 
 
-[ Email ](mailto://joe.letizia+github@gmail.com)
+joe.letizia@gmail.com
 
 ### Personal Statement
-I am a software engineer with 7 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also enjoy leading	teams	on	technical	efforts,	as	well	as	mentoring	and	ramping	up	more	junior	engineers.
+I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
 
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, Javascript  | **Vim**, git, **Heroku**, AWS
+**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
 ###### Senior Software Engineer/Tech Lead @ VTS
@@ -20,6 +20,7 @@ November 2018 - Present
 - Responsible for core platform features and maintenance.
 - Rewrote financial calculations engine to support a better developer experience, increase maintainability, and improve performance.
 - Built features to on board client with ARR in the high 6 figures.
+- Oversaw and executed large scale migration from AngularJS to ReactJS.
 
 ---
 
@@ -100,4 +101,3 @@ March 2009 - May 2012
 ##### Stevens Institute of Technolgy
 Hoboken, New Jersey  
 Bachelor's of Science in Computer Science
-
