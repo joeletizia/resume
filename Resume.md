@@ -4,7 +4,7 @@
 joe.letizia@gmail.com
 
 ### Personal Statement
-I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
+I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also enjoy leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
 
 ### Technical Skills
 Platforms | Languages | Tools
