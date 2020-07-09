@@ -17,9 +17,9 @@ New York City, NY
 November 2018 - Present
 
 - Tech lead on the largest engineering team (7 engineers) in the company.
-- Responsible for core platform features and maintenance.
+- Responsible for financial platform features to present cash flow analysis for long term commercial real estate deals.
 - Rewrote financial calculations engine to support a better developer experience, increase maintainability, and improve performance.
-- Built features to on board client with ARR in the high 6 figures.
+- Train new and junior engineers.
 - Oversaw and executed large scale migration from AngularJS to ReactJS.
 
 ---
@@ -28,8 +28,8 @@ November 2018 - Present
 New York City, NY  
 January 2017 - August 2018
 
-- Engineer on People Products focusing on building tools to help managers and organization leaders gain insight on their people and help facilitate internal mobility.
-- Engineer on Recruiting Products helping to build products to help find, engage, evaluate, and hire talent across the company.
+- Senior engineer on the People Products team, focusing on building tools to manage headcount, help managers and organization leaders gain insight on their people (seniority, diversity and inclusion, etc), and help facilitate internal mobility.
+- Senior engineer on Manager Recruiting Products, helping to build products to help find, engage, evaluate, and hire talent across the company. Specifically worked on building tools to facilitate recruiter outreach via engineers to increase cold email response rates.
 
 ---
 
