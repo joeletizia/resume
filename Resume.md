@@ -4,12 +4,12 @@
 joe.letizia@gmail.com
 
 ### Personal Statement
-I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also enjoy leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
+I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and React. I also enjoy leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
 
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
+**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, JavaScript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
 ###### Senior Software Engineer/Tech Lead @ VTS
@@ -20,7 +20,7 @@ November 2018 - Present
 - Responsible for financial platform features to present cash flow analysis for long term commercial real estate deals.
 - Rewrote financial calculations engine to support a better developer experience, increase maintainability, and improve performance.
 - Train new and junior engineers.
-- Oversaw and executed large scale migration from AngularJS to ReactJS.
+- Oversaw and executed large scale migration from AngularJS to React.
 
 ---
 
