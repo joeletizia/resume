@@ -9,12 +9,21 @@ I am a software engineer with 10 years of experience in several aspects of the s
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, JavaScript  | **Vim**, git, **Heroku**, AWS
+**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, JavaScript  | git, **Heroku**, **AWS**
 
 ### Professional Experience
+###### Engineering Manager/Tech Lead @ VTS
+New York City, NY
+October 2020 - Present
+
+- Migrated core product infrastructure from Heroku to AWS.
+- Managed performance and personal development of 4 FTEs and 3 offshore contractors.
+- Remained technical. 90th percentile in terms of PR throughput.
+- Trained new engineers in TDD, React, Rails, etc.
+
 ###### Senior Software Engineer/Tech Lead @ VTS
-New York City, NY  
-November 2018 - Present
+New York City, NY
+November 2018 - October 2020
 
 - Tech lead on the largest engineering team (7 engineers) in the company.
 - Responsible for financial platform features to present cash flow analysis for long term commercial real estate deals.
