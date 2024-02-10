@@ -1,10 +1,12 @@
 # Joe Letizia
-#### Software Engineer 
+#### Software Engineerin Leader 
 
 joe.letizia@gmail.com
 
 ### Personal Statement
-I am a software engineer with 10 years of experience in several aspects of the software development process. I am especially interested in creating web applications. My favorite frameworks are Ruby on Rails, Phoenix, and React. I also enjoy leading teams on technical efforts, as well as mentoring and ramping up more junior engineers.
+I am a software engineer with 15 years of experience in several aspects of the software development process. I'm comfortable leading teams as a manager or a tech lead. 
+
+My focus is on web product development that incorporates rich data experiences. My favorite frameworks are Ruby on Rails, Phoenix, and React. I enjoy leading teams on technical efforts, as well as mentoring and ramping up junior engineers.
 
 ### Technical Skills
 Platforms | Languages | Tools
@@ -17,16 +19,17 @@ New York City, NY
 October 2020 - Present
 
 - Migrated core product infrastructure from Heroku to AWS.
-- Managed performance and personal development of 4 FTEs and 3 offshore contractors.
+- Managed performance and personal development of 10 employees across North America and India.
 - Remained technical. 90th percentile in terms of PR throughput.
 - Trained new engineers in TDD, React, Rails, etc.
+- Technical lead responsible for $70MM product line.
 
 ###### Senior Software Engineer/Tech Lead @ VTS
 New York City, NY
 November 2018 - October 2020
 
-- Tech lead on the largest engineering team (7 engineers) in the company.
-- Responsible for financial platform features to present cash flow analysis for long term commercial real estate deals.
+- Tech lead on the largest engineering team in the company.
+- Responsible for financial platform features to present cash flow analysis for commercial real estate deals.
 - Rewrote financial calculations engine to support a better developer experience, increase maintainability, and improve performance.
 - Train new and junior engineers.
 - Oversaw and executed large scale migration from AngularJS to React.
@@ -47,10 +50,10 @@ New York City, NY
 November 2015 - December 2016
 
 - Responsible for web application architecture.
-- Lead engineering hiring effors.
+- Led engineering hiring effors.
 - Train, encourage, and review engineering team members in TDD, BDD, and clean coding techniques (SOLID).
 - Built custom CMS solution for product team members to decrease publish team and eliminate the need for engineering intervention.
-- Leading major refactorings on custom business workflow modules. 
+- Led major refactorings on custom business workflow modules. 
 - Engineer responsible for subscription product features.
 
 ---
@@ -64,45 +67,6 @@ June 2013 - November 2015
 - Followed agile processes including daily standups, regular retrospectives, short iterations, test-driven development, and constant personal feedback in order maintain a sustainable yet fast pace of delivery.
 - Trained by Pivotal Labs engineers in TDD, object oriented design, and agile software engineering.
 - Created ETL process to migrate data from legacy system with an extremely loose data model to the new product’s data model. This was built entirely in ruby, distributed across many AWS instances to increase throughput and concurrency, and used a robust logging and analytics system based on MongoDB. 
-
----
-
-###### Software Engineer @ Connotate  
-New Brunswick, NJ  
-June 2012 - May 2013
-
-- Responsible for backend products and systems focused on automating the extraction of web data.
-- Designed, implemented, and tested REST and SOAP API to allow users to programmatically interact with extraction scheduler and data store.
-- Investigated NoSql databases such as MongoDB and made proof of concepts, prototypes, and demos in order to create a new logging framework allowing the database to scale out operations horizontally.
-- Encouraged and executed transition from SVN to git as well as drafted policy guidelines for code reviews, branching and merging, and releases.
-- Upgraded and maintained customer facing web application written in ASP.Net & C#. Added jQuery to manipulate DOM and facilitate AJAX.
-
----
-
-###### Creator @ Dossier Web 
-New Brunswick, NJ  
-June 2012 - May 2013
-
-- Designed, implemented, and deployed Ruby(1.9.2) on Rails(3.2.11) application to automate a manual process dealing with job applications for graduating doctoral students applying to tenure track positions
-- Implemented model specs using RSpec to ensure proper application functionality. Learned and applied Test Driven Development methodology. Currently implementing Cucumber tests for high-level integration testing.
-- Used Twitter Bootstrap, jQuery, and Javascript to allow for a rich front end experience. 
-- Currently implementing Backbone.js to maintain front end code under an MVC framework.
-- Deployed application to Heroku and backed with postgresql.
-
----
-
-###### Application Development Analyst @ Hess Corporation
-Woodbridge, NJ  
-March 2009 - May 2012
-
-
-- Developed Tank Management System, an ASP.net and C# application backed by MS SQL server to facilitate the management of tank rentals. 
-- Developed retail order reconciliation system to allow third-party trucking partners to provide delivery information on completed orders.
-- Analyzed root cause of catastrophic failure in retail web-based oil ordering system impacting 50+ direct users with a revenue stream of $1 MM+/day. 
-- Designed and implemented sub-system overhaul of retail system which restored and improved overall system performance.
-- Created data-warehouse following star-schema to facilitate reporting of sales, inventory, and activity data. 
-- Developed ETL processes to keep analytical data up to date while preventing performance issues in transactional system.
-- Interviewed intern and full-time entry level candidates to assess technical aptitude. 
 
 ---
 
