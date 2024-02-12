@@ -21,6 +21,7 @@ October 2020 - Present
 - Migrated core product infrastructure from Heroku to AWS.
 - Managed performance and personal development of 10 employees across North America and India.
 - Responsible for development and maintenance of product features across web, mobile, and API experiences.
+- Developed data insights features via custom in-house built ETLs, as well as DBT built tranforms in Postgres and Snowflake presented in Looker.
 - Remained technical. 90th percentile in terms of PR throughput.
 - Trained new engineers in TDD, React, Rails, etc.
 - Technical lead responsible for $70MM product line.
