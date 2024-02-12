@@ -1,5 +1,5 @@
 # Joe Letizia
-#### Software Engineerin Leader 
+#### Software Engineering Leader 
 
 joe.letizia@gmail.com
 
@@ -9,9 +9,9 @@ I am a software engineer with 15 years of experience in several aspects of the s
 My focus is on web product development that incorporates rich data experiences. My favorite frameworks are Ruby on Rails, Phoenix, and React. I enjoy leading teams on technical efforts, as well as mentoring and ramping up junior engineers.
 
 ### Technical Skills
-Platforms | Languages | Tools
-:------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, JavaScript  | git, **Heroku**, **AWS**
+Platforms | Languages | Tools | Frameworks
+:------------: |:------------:| :------------:| :------------:
+**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, Java/TypeScript  | git, **Heroku**, **AWS**, Postgres | Rails, React
 
 ### Professional Experience
 ###### Engineering Manager/Tech Lead @ VTS
