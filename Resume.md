@@ -11,7 +11,7 @@ My focus is on web product development that incorporates rich data experiences. 
 ### Technical Skills
 Platforms | Languages | Tools
 :------------: |:------------:| :------------:
-AWS, Heroku | **Ruby** (Rails), **Elixir**, SQL, Java/TypeScript (React, Redux)  | Git/Hub, Postgres, dbt, Snowflake, Looker, PagerDuty, DataDog
+AWS, Heroku | **Ruby** (Rails), **Elixir**, SQL, Java/TypeScript (React, Redux)  | Git/Hub, Postgres, dbt, Snowflake, Looker, PagerDuty, DataDog, k9s
 
 ### Professional Experience
 ###### Engineering Manager/Tech Lead @ VTS
