@@ -6,12 +6,12 @@ joe.letizia@gmail.com
 ### Personal Statement
 I am a software engineer with 15 years of experience in several aspects of the software development process. I'm comfortable leading teams as a manager or a tech lead. 
 
-My focus is on web product development that incorporates rich data experiences. My favorite frameworks are Ruby on Rails, Phoenix, and React. I enjoy leading teams on technical efforts, as well as mentoring and ramping up junior engineers.
+My focus is on web product development that incorporates rich data experiences. My favorite frameworks are Ruby on Rails, Phoenix, and React. I enjoy building end user products, as well as mentoring and ramping up junior engineers.
 
 ### Technical Skills
-Platforms | Languages | Tools | Frameworks
-:------------: |:------------:| :------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, Java/TypeScript  | git, **Heroku**, **AWS**, Postgres | Rails, React
+Platforms | Languages | Tools
+:------------: |:------------:| :------------:
+AWS, Heroku | **Ruby** (Rails), **Elixir**, SQL, Java/TypeScript (React, Redux)  | Git/Hub, Postgres, dbt, Snowflake, Looker, PagerDuty, DataDog
 
 ### Professional Experience
 ###### Engineering Manager/Tech Lead @ VTS
@@ -20,6 +20,7 @@ October 2020 - Present
 
 - Migrated core product infrastructure from Heroku to AWS.
 - Managed performance and personal development of 10 employees across North America and India.
+- Responsible for development and maintenance of product features across web, mobile, and API experiences.
 - Remained technical. 90th percentile in terms of PR throughput.
 - Trained new engineers in TDD, React, Rails, etc.
 - Technical lead responsible for $70MM product line.
