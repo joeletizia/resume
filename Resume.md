@@ -14,6 +14,18 @@ Platforms | Languages | Tools
 AWS, Heroku | **Ruby** (Rails), **Elixir**, SQL, Java/TypeScript (React, Redux)  | Git/Hub, Postgres, dbt, Snowflake, Looker, PagerDuty, DataDog, k9s
 
 ### Professional Experience
+###### Staff Engineer @ Shopify
+Remote from NYC Metro
+July 2024 - Present
+
+- Oversight of 7 engineers developing products and infrastructure to support Shopify tech partners building shops for end merchants.
+- Trained new engineers in TDD, React, Rails, etc.
+- Managed project estimation and resourcing.
+- Worked with cross functional stake holders on product ideation.
+- Migrated platform onto core Shopify infrastructure and away from bespoke implementations.
+
+---
+
 ###### Engineering Manager/Tech Lead @ VTS
 New York City, NY
 October 2020 - Present
